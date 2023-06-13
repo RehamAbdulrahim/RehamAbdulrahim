@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RehamAbdulrahim
-- 👀 I’m interested in javascript and web development 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in manual and automation testing
+- 🌱 I’m currently learning automation testing 
 - 📫 How to reach me : eng.r.r.94@outlook.com 
 
 <!---
