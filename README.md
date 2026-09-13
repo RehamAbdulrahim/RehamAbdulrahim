@@ -24,18 +24,6 @@ I'm a **Software QA Engineer** passionate about building reliable, high-quality 
 - Collaborate with developers to investigate issues and verify fixes
 - Focus on risk-based testing, edge cases, and overall product quality
 
-### 📌 Key Projects
-
-**Compass – Strategy Plan Management System**
-- QA testing for a strategy management platform
-- Comprehensive functional, regression, integration, negative, and edge-case testing
-- Cypress E2E automation for regression scenarios
-- Test management and reporting using Qase.io
-
-**CVeezy – Job Application Web & Mobile Platform**
-- Functional, regression, and integration testing across web and mobile
-- Test case design and execution for user and job-application workflows
-- Defect tracking and release validation
 
 ### 🛠️ Tech & Tools
 
