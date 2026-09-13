@@ -10,7 +10,6 @@ I'm a **Software QA Engineer** passionate about building reliable, high-quality 
 - 📊 Test Management: **Qase.io**
 - 🐞 Defect Management: **Jira**
 - 🔧 Version Control: **Git**
-- ⚡ Performance Testing: **JMeter**
 - 🌐 Web & Mobile Application Testing
 - 🔄 Agile / Scrum
 
