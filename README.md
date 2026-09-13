@@ -1,9 +1,51 @@
-- 👋 Hi, I’m @RehamAbdulrahim
-- 👀 I’m interested in manual and automation testing
-- 🌱 I’m currently learning automation testing 
-- 📫 How to reach me : eng.r.r.94@outlook.com 
+# 👋 Hi, I'm Reham R. Abdelrahim
 
-<!---
-RehamAbdulrahim/RehamAbdulrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Software QA Engineer | Manual & Automation Testing
+
+I'm a **Software QA Engineer** passionate about building reliable, high-quality software through effective testing and continuous improvement.
+
+- 🧪 Manual Testing: Functional, Regression, Integration, Exploratory & End-to-End Testing
+- 🤖 Automation: **Cypress + JavaScript**
+- 🔌 API Testing: **Postman**
+- 📊 Test Management: **Qase.io**
+- 🐞 Defect Management: **Jira**
+- 🔧 Version Control: **Git**
+- ⚡ Performance Testing: **JMeter**
+- 🌐 Web & Mobile Application Testing
+- 🔄 Agile / Scrum
+
+### 🚀 What I Do
+
+- Design and execute comprehensive test cases
+- Identify and report defects and track them through resolution
+- Perform regression and release validation
+- Develop and maintain E2E automated tests using Cypress
+- Validate APIs and application workflows using Postman
+- Collaborate with developers to investigate issues and verify fixes
+- Focus on risk-based testing, edge cases, and overall product quality
+
+### 📌 Key Projects
+
+**Compass – Strategy Plan Management System**
+- QA testing for a strategy management platform
+- Comprehensive functional, regression, integration, negative, and edge-case testing
+- Cypress E2E automation for regression scenarios
+- Test management and reporting using Qase.io
+
+**CVeezy – Job Application Web & Mobile Platform**
+- Functional, regression, and integration testing across web and mobile
+- Test case design and execution for user and job-application workflows
+- Defect tracking and release validation
+
+### 🛠️ Tech & Tools
+
+`Cypress` `JavaScript` `Postman` `Jira` `Qase.io` `Git` `JMeter` `Confluence` `Slack`
+
+### 📫 Connect With Me
+
+- 📧 Email: eng.r.r.94@outlook.com
+- 💼 LinkedIn: [Reham R. Abdelrahim](https://www.linkedin.com/in/reham-r-abdelrahim-b2b756403/)
+
+---
+
+⭐ Always learning, testing, and improving software quality.
